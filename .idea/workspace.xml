@@ -1,7 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74709a34-047a-44bd-b7e6-cb621000f0d1" name="Changes" comment="" />
+    <list default="true" id="74709a34-047a-44bd-b7e6-cb621000f0d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/AsalSayilari.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/out/production/AsalSayilari/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1000AsalSayilari/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/AmstronSayisi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/out/production/AmstronSayisi/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmstronSayisi/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/AtmProje.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/out/production/AtmProje/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmProje/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/EbobBulma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/out/production/EbobBulma/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EbobBulma/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/FaizUygulamasi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/out/production/FaizUygulamasi/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaizUygulamasi/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/GelismisHesapMak.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/out/production/GelismisHesapMak/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GelismisHesapMak/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/KullaniciGirişi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/out/production/KullaniciGirişi/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KullaniciGirişi/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/OOPAtm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/out/production/OOPAtm/com/company/ATM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/out/production/OOPAtm/com/company/Hesap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/out/production/OOPAtm/com/company/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/out/production/OOPAtm/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPAtm/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPAtm/src/com/company/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPAtm/src/com/company/ATM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPAtm/src/com/company/Hesap.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPAtm/src/com/company/Hesap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPAtm/src/com/company/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPAtm/src/com/company/Login.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +121,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
