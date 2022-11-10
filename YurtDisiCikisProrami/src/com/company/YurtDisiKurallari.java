@@ -1,2 +1,11 @@
-package com.company;public interface YurtDisiKurallari {
+package com.company;
+
+public interface YurtDisiKurallari {
+
+    boolean yurdisiHarciKontrol();
+
+    boolean siyasiYasakKontrol();
+
+    boolean vizeDurumKontrol();
+
 }
